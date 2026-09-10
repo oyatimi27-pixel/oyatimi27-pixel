@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar YATIMI
 
-<!--
-**oyatimi27-pixel/oyatimi27-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Computing Student  
+🔐 Aspiring Cybersecurity Professional  
+💻 Web Developer building practical digital solutions  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cybersecurity
+- Networking
+- Python
+- React and TypeScript
+- Full-Stack Web Development
+- AI-assisted development
+
+## 🚀 Featured Projects
+
+### 🌍 Tuniverse
+
+Tuniverse is a multi-service platform designed to bring essential digital services together in one application.
+
+The platform includes services such as:
+
+- Marketplace
+- Food Delivery
+- Transportation
+- Healthcare
+- Education
+- Jobs
+- News
+
+**Vision:** One Platform. Every Service.
+
+**Technologies:** HTML, CSS, JavaScript, PHP and MySQL
+
+### 📦 StockPro
+
+StockPro is a modern inventory, client and sales management application designed for wholesalers and businesses.
+
+The platform helps users manage:
+
+- Products and inventory
+- Stock quantities
+- Clients
+- Sales
+- Orders
+- Business information and statistics
+
+**Technologies:** HTML, CSS, React and TypeScript  
+**Development approach:** Built with the assistance of AI Studio
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/omar-yatimi-44b47a38b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- Instagram: https://www.instagram.com/networksec.arabic?stkn=MWk5NnN2cGV2bHBneg%3D%3D&utm_source=qr
