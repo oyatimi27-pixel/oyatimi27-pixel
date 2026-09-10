@@ -16,7 +16,7 @@
 
 ## 🔥 Featured Projects
 
-### 🌐 [Tuniversethub.com/oyatimi27-pixel/tuniverse
+### 🌐 Tuniversethub.com/oyatimi27-pixel/tuniverse
 
 Tuniverse is a multi-service digital platform inspired by the concept of a **Tunisia Super App**.
 
